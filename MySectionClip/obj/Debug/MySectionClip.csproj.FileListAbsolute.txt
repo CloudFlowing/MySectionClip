@@ -1,0 +1,10 @@
+C:\Users\13386\Source\Repos\MySectionClip1.0\MySectionClip1.0\obj\Debug\MySectionClip.Form1.resources
+C:\Users\13386\Source\Repos\MySectionClip1.0\MySectionClip1.0\obj\Debug\MySectionClip1._0.Properties.Resources.resources
+C:\Users\13386\Source\Repos\MySectionClip1.0\MySectionClip1.0\obj\Debug\MySectionClip.csproj.GenerateResource.cache
+C:\Users\13386\Source\Repos\MySectionClip1.0\MySectionClip1.0\obj\Debug\MySectionClip.csproj.CoreCompileInputs.cache
+C:\Users\13386\Source\Repos\MySectionClip1.0\MySectionClip1.0\obj\Debug\MySectionClip1.0.exe
+C:\Users\13386\Source\Repos\MySectionClip1.0\MySectionClip1.0\obj\Debug\MySectionClip1.0.pdb
+C:\Users\13386\Source\Repos\MySectionClip1.0\MySectionClip1.0\bin\Debug\MySectionClip1.0.exe.config
+C:\Users\13386\Source\Repos\MySectionClip1.0\MySectionClip1.0\bin\Debug\MySectionClip1.0.exe
+C:\Users\13386\Source\Repos\MySectionClip1.0\MySectionClip1.0\bin\Debug\MySectionClip1.0.pdb
+C:\Users\13386\Source\Repos\MySectionClip1.0\MySectionClip1.0\obj\Debug\MySectionClip.csprojAssemblyReference.cache
