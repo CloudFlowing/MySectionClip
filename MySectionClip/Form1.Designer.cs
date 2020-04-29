@@ -134,7 +134,7 @@
             this.labelStatusDescription.Name = "labelStatusDescription";
             this.labelStatusDescription.Size = new System.Drawing.Size(542, 20);
             this.labelStatusDescription.TabIndex = 10;
-            this.labelStatusDescription.Text = "源码访问https://gitee.com/renux/MySectionClip";
+            this.labelStatusDescription.Text = "源码及说明访问https://github.com/CloudFlowing/MySectionClip";
             this.labelStatusDescription.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // checkFormFirst
