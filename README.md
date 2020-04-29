@@ -1,9 +1,9 @@
 # MySectionClip
-A simple clipboard processing tool born because ditto can't meet the needs
-由于Ditto不能满足需求诞生的一个简单剪贴板处理工具
+A simple clipboard processing tool born because ditto can't meet the needs   
+由于Ditto不能满足需求诞生的一个简单剪贴板处理工具   
 ####需求
-由于最强悍的剪贴板管理软件ditto不能满足需求,所以自己开发一个小生产力工具 
-已知在win10的任意平台上有如下一段文字 
+由于最强悍的剪贴板管理软件ditto不能满足需求,所以自己开发一个小生产力工具   
+已知在win10的任意平台上有如下一段文字    
 ```
 1111111111111111111111111111111111111
 1111111111111111111111111111111111111
