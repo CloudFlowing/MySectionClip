@@ -7,7 +7,7 @@ A simple clipboard processing tool born because ditto can't meet the needs
 +增加了更多过滤器规则  
 
 #### 使用说明v1.2   
-```
+
 ![图片.png](https://upload-images.jianshu.io/upload_images/17488192-27a7688d671370b9.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 
