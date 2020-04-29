@@ -7,6 +7,8 @@ A simple clipboard processing tool born because ditto can't meet the needs
 +增加了更多过滤器规则  
 
 #### 使用说明v1.2   
+![图片.png](https://upload-images.jianshu.io/upload_images/17488192-660fefad89ad3a19.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
 1 打开该软件   
 2 在一组在不同位置的,你需要复制的信息上ctrl+c  
 3 该软件会使用相应过滤器规则过滤该组信息中的每个信息(默认为把每个信息中的多个相连\n,\r换行符转换为一个空格)并输出在富文本窗口上   
