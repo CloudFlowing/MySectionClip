@@ -2,11 +2,11 @@
 A simple clipboard processing tool born because ditto can't meet the needs   
 由于Ditto不能满足需求诞生的一个简单剪贴板处理工具   
 
-####v1.2更新   
+#### v1.2更新   
 +增加了透明度控制   
 +增加了更多过滤器规则  
 
-####使用说明v1.2   
+#### 使用说明v1.2   
 1 打开该软件   
 2 在一组在不同位置的,你需要复制的信息上ctrl+c  
 3 该软件会使用相应过滤器规则过滤该组信息中的每个信息(默认为把每个信息中的多个相连\n,\r换行符转换为一个空格)并输出在富文本窗口上   
@@ -18,7 +18,7 @@ A simple clipboard processing tool born because ditto can't meet the needs
 
 
 
-####需求      
+#### 需求      
 由于最强悍的剪贴板管理软件ditto不能满足需求,所以自己开发一个小生产力工具   
 已知在win10的任意平台上有如下一段文字    
 ```
@@ -58,7 +58,7 @@ A simple clipboard processing tool born because ditto can't meet the needs
 
 这是一段有效信息:经常有一些内容需要重复使用。比如，电话号码、邮箱、公司地址…… 。这些信息可以通过输入法实现，也可以用剪贴板工具实现。早期Ditto 有一项非常强大的功能——命名粘贴（Named Paste）。
 ```
-####参考   
+#### 参考   
 主要的几个参考思路    
 关于C#监视剪贴板信息 https://blog.csdn.net/imxiangzi/article/details/81585080    
 C# 操作剪贴板 https://www.cnblogs.com/guogangj/p/7465951.html    
@@ -100,12 +100,12 @@ https://www.cnblogs.com/xuekai-to-sharp/p/3511982.html
 FormClosedEventArgs e 或FormClosingEventArgs e    
 ![图片.png](https://upload-images.jianshu.io/upload_images/17488192-50769b3ae24588fa.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)    
 
-####问题1    
+#### 问题1    
 问题:如何使用本程序操纵剪贴板:比如ctrl+v同时完成了复制当前内容到剪贴板和复制剪贴板内容到其他平台(剪贴板本身功能)?    
 https://blog.csdn.net/u012543266/article/details/15506575    
 https://www.jianshu.com/p/b60b77fcb2a3    
-####问题2    
-原本好用的换行符映射器在剪贴板中失灵    
+#### 问题2    
+原本好用的换行符映射/过滤器在剪贴板中失灵    
 注意剪贴板上的换行符有一部分未能替换     
 ```
 //原有文本
@@ -140,7 +140,7 @@ https://blog.csdn.net/xtydtc/article/details/53165044
 ```
 
 
-####问题3    
+#### 问题3    
 如何刷新窗体    
 https://blog.csdn.net/a17601634191a/article/details/90228834    
 ####问题4    
