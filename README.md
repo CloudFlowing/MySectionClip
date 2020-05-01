@@ -3,7 +3,7 @@ A simple clipboard processing tool born because ditto can't meet the needs
 由于Ditto不能满足需求诞生的一个简单剪贴板处理工具   
 #### v1.3更新 
 修正了打开软件就会获取剪贴板内容并处理的bug
-修正了有时候ctrl+x后剪贴板内容不能被完全清空的bug
+修正了有时候ctrl+x后剪贴板内容不能被完全清空的bug(打开软件和clear后清空剪贴板)
 #### v1.2更新   
 +增加了透明度控制   
 +增加了更多过滤器规则  
